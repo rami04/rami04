@@ -1,16 +1,14 @@
-Hi 👋 My name is Ramiro
+<h3>Hi, I'm Ramiro - Aka rami04</h3>
 =======================
 
-Back-end Developer
+I'm a Developer
 ------------------
 
 I've been learning to code for 3 years, but the pandemic slowed me down. I started with Python, C++ and then Php
 
-* 🌍  I'm based in Argentina
-* ✉️  You can contact me at [rami.04valenzuela@gmail.com](mailto:rami.04valenzuela@gmail.com)
-* 🧠  I'm learning everything I can
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  - I'm 18y ;)
+* 🧠  I'm currently learning everything I can
+* 🤝  I'm looking to collaborate with other people
+* ⚡  I'm 18y ;)
 
 ### Skills
 
