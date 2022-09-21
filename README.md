@@ -19,7 +19,7 @@ I've been learning to code for 3 years, but the pandemic slowed me down. I start
 <p align="center"><a href="https://discord.com/users/rami04#0600" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;
 <a href="http://www.instagram.com/rami._.v" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ramiro-valenzuela-a80057241/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://www.stackoverflow.com/users/19274710/rami" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
+
 
 
 ### <h3 align=center>Languages</h3>
