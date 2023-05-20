@@ -1,19 +1,14 @@
-<h3 align=center>Hi 👋, I'm Rami </h3>
+<h2 align=center>Hi 👋 </h2>
 
-<h4 align=center>I'm a Developer</h4>
+* 🤺   My name is: **Rami**
+* 💥  I'm: **18y** ;)
+* 🧠  I'm currently learning: **Rust** & **React** 
+* ⚡   I love: **COFFEE ☕**
+* 💻   Favorite lang: **Rust** & **Php** 
 
+### <h1 align=center>README in maintenance...</h1>
 
-
-------------------
-
-I've been learning to code for 3 years, but the pandemic slowed me down. I started with Python, C++ and then Php
-
-* 🧠  I'm currently learning <b>CSS3</b>, <b>JavaScript</b> and <b>SQL</b>
-* 🤝  I'm looking to collaborate with other people
-* 💥  I'm <b>18y</b> ;)
-* ⚡  I like <b>play music</b>, <b>play videogames</b>, <b>learn new things</b>, <b>coding</b> and <b>COFFEE ☕</b>
-
-
+ 
 ### <h3 align=center>Connect with me:</h3>
 
 <p align="center"><a href="https://discord.com/users/rami04#0600" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;
@@ -23,6 +18,9 @@ I've been learning to code for 3 years, but the pandemic slowed me down. I start
 
 
 ### <h3 align=center>Skills</h3>
+
+
+
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -37,8 +35,13 @@ I've been learning to code for 3 years, but the pandemic slowed me down. I start
 </p>
 
 
+
+
+
+<!-- Statistics 
 <div align=center>
 <a href="http://www.github.com/rami04"><img src="https://github-readme-stats.vercel.app/api?username=rami04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rami04's GitHub stats" /></a>
 <br><br>
 <a href="https://github.com/rami04"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rami04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+-->
