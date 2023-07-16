@@ -4,7 +4,7 @@
 * 💥  I'm: **18y** ;)
 * 🧠  I'm currently learning: **Rust** & **React** 
 * ⚡   I love: **COFFEE ☕**
-* 💻   Favorite lang: **Rust** & **Php** 
+* 💻   Favorite lang: **Rust** & **Python** 
 
 ### <h1 align=center>README in maintenance...</h1>
 
