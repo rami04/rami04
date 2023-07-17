@@ -1,7 +1,7 @@
 <h2 align=center>Hi 👋 </h2>
 
 * 🤺   My name is: **Rami**
-* 💥  I'm: **18y** ;)
+* 💥  I'm: **19y** ;)
 * 🧠  I'm currently learning: **Rust** & **React** 
 * ⚡   I love: **COFFEE ☕**
 * 💻   Favorite lang: **Rust** & **Python** 
