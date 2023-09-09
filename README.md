@@ -2,10 +2,10 @@
 
 * 🤺   My name is: **Rami**
 * 💥  I'm: **19y** ;)
-* 🧠  I'm currently learning: **Rust** & **React** 
+<!-- * 🧠  I'm currently learning: **Rust** & **React** 
 * ⚡   I love: **COFFEE ☕**
 * 💻   Favorite lang: **Rust** & **Python** 
-
+-->
 ### <h1 align=center>README in maintenance...</h1>
 
  
