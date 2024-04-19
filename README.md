@@ -35,14 +35,10 @@
 </p>
  
 
-<p align="center">
-
-
 <h2 align="center">🎨 My skills</h2>
 <h4 align="center">💡 Programming languages</h4>
 
 <p align="center"> 
-
 <a href="https://github.com/search?q=user%3Arami04+language%3Aphp"><img alt="Static Badge" src="https://img.shields.io/badge/Php-bold?logo=php&logoColor=white&color=%23777BB4"></a>
 <a href="https://github.com/search?q=user%3Arami04+language%3Ajavascript"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-red?logo=javascript&logoColor=black&color=%23F7DF1E"></a>
 <a href="https://github.com/search?q=user%3Arami04+language%3Ahtml"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white"></a>
@@ -59,8 +55,6 @@
 <a href="https://github.com/search?q=user%3Arami04+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Arami04+language%3Alua"><img alt="Static Badge" src="https://img.shields.io/badge/Lua-bold?logo=lua&logoColor=white&color=%232C2D72"></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Markdown-bold?logo=markdown&logoColor=white&color=%23000000">
-
-
 </p>
 
 <h4 align="center">📚 Frameworks and libraries</h4>
@@ -69,14 +63,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-bold?logo=flutter&logoColor=white&color=%2302569B">
 <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-bold?logo=bootstrap&logoColor=white&color=%237952B3">
 <img alt="Static Badge" src="https://img.shields.io/badge/.NET-bold?logo=dotnet&logoColor=white&color=%23512BD4">
-
 </p>
 
 
 <h4 align="center">💻 Software</h4>
 
 <p align="center"> 
-
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-bold?logo=git&logoColor=white&color=%23F05032">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-bold?logo=visualstudio&logoColor=white&color=%235C2D91">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20code-bold?logo=visualstudiocode&logoColor=white&color=%23007ACC">
@@ -87,20 +79,16 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-bold?logo=windows10&logoColor=white&color=%230078D6">
 <img alt="Static Badge" src="https://img.shields.io/badge/JetBrains-bold?logo=jetbrains&logoColor=white&color=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Terminal-bold?logo=windowsterminal&logoColor=white&color=%234D4D4D">
-
 </p>
 
 
 <h4 align="center">☁ Cloud and providers</h4>
 
 <p align="center"> 
-
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-bold?logo=mongodb&logoColor=white&color=%2347A248">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-bold?logo=mysql&logoColor=white&color=%234479A1">
 <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-bold?logo=mariadb&logoColor=white&color=%23003545">
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-bold?logo=microsoftsqlserver&logoColor=white&color=%23CC2927">
-
-
 </p>
 
 <!-- Statistics 
