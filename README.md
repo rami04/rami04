@@ -76,7 +76,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/OBS-bold?logo=obsstudio&logoColor=white&color=%23302E31">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-bold?logo=Github&logoColor=white&color=%23181717">
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-bold?logo=intellijidea&logoColor=white&color=%23000000">
-<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-bold?logo=windows10&logoColor=white&color=%230078D6">
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows-bold?logo=windows10&logoColor=white&color=%230078D6">
 <img alt="Static Badge" src="https://img.shields.io/badge/JetBrains-bold?logo=jetbrains&logoColor=white&color=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Terminal-bold?logo=windowsterminal&logoColor=white&color=%234D4D4D">
 </p>
