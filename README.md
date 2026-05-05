@@ -11,12 +11,11 @@
 <p>
  {
 <ul>
- <li>🤺 19 years</li>
+ <li>🤺 21 years</li>
  <li>💥 Argentinian</li>
  <li>⚡ I'm currently
  <ul>
    <li>💻 Studying Systems Engineering</li>
-   <li>🧠 Learning Rust</li>
    <li>🐍 Learning Python</li>
    <li>🟫 Learning plugin development</li>
  </ul>
