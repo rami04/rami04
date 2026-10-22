@@ -38,8 +38,8 @@ who's next
 ### <h3 align=center>Connect with me:</h3>
 
 <p align="center">
-<a href="http://www.instagram.com/rami._.v" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-bold?style=for-the-badge&logo=instagram&logoColor=white&color=fa0000"></a>
-<a href="https://www.linkedin.com/in/ramiro-valenzuela-a80057241/" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-bold?style=for-the-badge&logo=linkedin&logoColor=white&color=fa0000"></a>
+<a href="http://www.instagram.com/rami04v" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-bold?style=for-the-badge&logo=instagram&logoColor=white&color=fa0000"></a>
+<a href="https://www.linkedin.com/in/rami-valenzuela/" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-bold?style=for-the-badge&logo=linkedin&logoColor=white&color=fa0000"></a>
 <a href="https://discord.com/users/rami04#0600" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-bold?style=for-the-badge&logo=discord&logoColor=white&color=fa0000"></a>
 </p>
  
