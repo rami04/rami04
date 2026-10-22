@@ -2,16 +2,26 @@
 
 <h3 align="center">Technical Programmer | Systems Engineer | Coffee fan </h3>
 
-<!-- *   I'm currently learning: **Rust** & **React** 
-*    I love: **COFFEE ☕**
-*    Favorite lang: **Rust** & **Python** 
+<!-- *   I'm currently learning: ** ** & ** ** 
+*    Favorite lang: ** ** & ** ** 
+
+PHP, JavaScript, HTML, CSS, Sass, C, C#, C++, Java, Json, Dart, Python, Rust, Pascal, lua, markdown
+
+flutter, bootstrap, .net
+
+git, vs, vscode, sublime text, obs, github, intellij idea, windows, jetbrains, terminal
+
+mongodb, mysql, maria db, microsoft sql server
+
+who's next
+
 -->
 
 <h2>'bout me</h2>
 <p>
  {
 <ul>
- <li>🤺 21 years</li>
+ <li>🤺 22 years</li>
  <li>💥 Argentinian</li>
  <li>⚡ I'm currently
  <ul>
